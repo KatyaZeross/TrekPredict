@@ -1,0 +1,11 @@
+,Unnamed: 0,episode,productionnumber,setnames,characters,act,scenenumber,scenedetails,partnumber,type,who,text,speechdescription,Released,Episode,imdbRating,imdbID,Season
+0,1,encounter at farpoint,,,,TEASER,1  ,,1,description,, The U.S.S. Enterprise NCC 1701-D traveling at warp speed through space.,False,1987-09-26,1.0,6.9,tt0094030,1.0
+1,2,encounter at farpoint,,,,TEASER,1  ,,2,speech, PICARD V.O.," Captain's log, stardate 42353.7. Our destination is planet Cygnus IV, beyond which lies the great unexplored mass of the galaxy.",False,1987-09-26,1.0,6.9,tt0094030,1.0
+2,3,encounter at farpoint,,,,TEASER,2  ,,3,description,, on the gigantic new Enterprise NCC 1701-D.,False,1987-09-26,1.0,6.9,tt0094030,1.0
+3,4,encounter at farpoint,,,,TEASER,2  ,,4,speech, PICARD V.O.," My orders are to examine Farpoint, a starbase built there by the inhabitants of that world. Meanwhile ...",False,1987-09-26,1.0,6.9,tt0094030,1.0
+4,5,encounter at farpoint,,,,TEASER,3  ,,5,description,," Huge, with a giant wall diagram showing the immensity of this Galaxy Class starship.",False,1987-09-26,1.0,6.9,tt0094030,1.0
+5,6,encounter at farpoint,,,,TEASER,3  ,,6,speech, PICARD V.O.," acquainted with my new command, this Galaxy Class U.S.S. Enterprise.",True,1987-09-26,1.0,6.9,tt0094030,1.0
+6,7,encounter at farpoint,,,,TEASER,4  ,,7,description,, Showing the details and size of this enormous starship.,False,1987-09-26,1.0,6.9,tt0094030,1.0
+7,8,encounter at farpoint,,,,TEASER,4  ,,8,speech, PICARD V.O., I am still somewhat in awe of its size and complexity.,False,1987-09-26,1.0,6.9,tt0094030,1.0
+8,9,encounter at farpoint,,,,TEASER,5  ,,9,description,, With its huge windows revealing the immense span of the Starship's outer surface.,False,1987-09-26,1.0,6.9,tt0094030,1.0
+9,10,encounter at farpoint,,,,TEASER,5  ,,10,speech, PICARD V.O.," several key positions, most notably ...",True,1987-09-26,1.0,6.9,tt0094030,1.0
