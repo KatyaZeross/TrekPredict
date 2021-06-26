@@ -18,7 +18,7 @@ The project contains (in viewing order):
 ## Data
 1. model_comp.csv (comparing models)
 2. PCT_graph.csv (modelling dataset)
-3. TNG.csv.gz (original dataset) 
+3. TNG.csv.gz (original dataset -> https://github.com/RTrek/startrekTNGdataset) 
 4. total_word_count.csv 
 
 Required libraries: 
