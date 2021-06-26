@@ -33,5 +33,3 @@ Extras:
 - mord (https://pythonhosted.org/mord/)
 - time 
 
-![shap_install](shap_install.png) 
-
